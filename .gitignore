@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Vercel
+.vercel
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
