@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const actionWidget = document.createElement('div');
     actionWidget.className = 'floating-action-widget';
     actionWidget.innerHTML = `
-      <a href="tel:+917751031224" class="floating-action-btn floating-call-btn" title="Call Clinic Now">
+      <a href="tel:+916280433229" class="floating-action-btn floating-call-btn" title="Call Clinic Now">
         <i class="fas fa-phone-alt"></i>
       </a>
       <button class="floating-action-btn" data-bs-toggle="modal" data-bs-target="#bookingModal" title="Book Instant Appointment">
