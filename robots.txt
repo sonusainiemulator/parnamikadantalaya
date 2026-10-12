@@ -1,4 +1,26 @@
 User-agent: *
 Allow: /
 
+# Explicit AI Search Engine Bot Permissions (GEO - Generative Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://parnamikadantalaya.com/sitemap.xml
