@@ -4,7 +4,8 @@ Thumbs.db
 *.tmp
 
 # Vercel
-.vercel
+# Editor
+.vscode/
 
 # Node
 node_modules/
